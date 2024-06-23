@@ -1,0 +1,11 @@
+.back-btn{
+    width: 75px;
+}
+
+.back-btn a{
+    text-decoration: none;
+}
+
+.back-btn:hover{
+    background-color: lightgrey;
+}

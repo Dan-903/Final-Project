@@ -1,0 +1,23 @@
+.post-container{
+    height: 75px;
+}
+
+.post-container:hover{
+    background-color: lightgrey;
+}
+
+.post-container a{
+    text-decoration: none;
+    color: black;
+}
+
+
+.logout-btn:hover{
+    background-color: lightgrey;
+
+}
+
+.logout-btn a{
+    text-decoration: none;
+    color: black;
+}
